@@ -1,0 +1,15 @@
+/home/awooy/testApp/build/all/app/CMakeFiles/install.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/list_install_components.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/rebuild_cache.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/testApp.desktop.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/edit_cache.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/testApp_FILES.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/install/strip.dir
+/home/awooy/testApp/build/all/app/CMakeFiles/install/local.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/rebuild_cache.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/install.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/list_install_components.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/testapp.awooy.pot.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/install/strip.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/install/local.dir
+/home/awooy/testApp/build/all/app/po/CMakeFiles/edit_cache.dir

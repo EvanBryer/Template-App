@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b9df9c29c22e407f517b5aab62481afa CMakeFiles/testApp.desktop
+a6cff02ae887dace449c2a7d152ea071 po/CMakeFiles/testapp.awooy.pot

@@ -1,0 +1,6 @@
+//manifest.json
+//testApp.apparmor
+//assets/logo.svg
+//src/example.py
+//qml/Main.qml
+//testApp.desktop
